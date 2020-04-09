@@ -8,6 +8,6 @@ Object Picking without additional shaders.
 
 ## Sample Page
 
-https://ledyba.github.io/__sample__3d-picking-without-shaders/
+https://ledyba.github.io/__sample__3d-picking-without-shaders/index.html
 
 ## 解説
