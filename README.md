@@ -2,9 +2,9 @@
 
 Object Picking without additional shaders.
 
-![screenshot.png](screenshot.png)
+[![screenshot.png](screenshot.png)](https://ledyba.github.io/__sample__3d-picking-without-shaders/index.html)
 
-![screenshot.png](screenshot2.png)
+[![screenshot.png](screenshot2.png)](https://ledyba.github.io/__sample__3d-picking-without-shaders/index.html)
 
 ## Sample Page
 
